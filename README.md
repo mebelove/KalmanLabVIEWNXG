@@ -15,5 +15,6 @@ A calling program with noise generation
 ![Main Block Diagram](http://i66.tinypic.com/5eaa6a.png)
 
 3. **Sneak Peek at it**
+Here is a hasty preview of results
 ![Final Project](https://media.giphy.com/media/xUOrwewLIgpUB1UzKw/giphy.gif)
 
